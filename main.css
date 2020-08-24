@@ -1,0 +1,46 @@
+:root {
+  --font-family: "Source Sans Pro", sans-serif
+}
+
+
+
+.place {
+  background-color: blue;
+  width: auto;
+  height: 100px;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+#intro {
+  display: block;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#work {
+  display: block;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #F2F3F5;
+}
+
+.title {
+  font-family: var(--font-family);
+  font-size: 20px;
+
+}
+
+.title2 {
+
+}
+
+.main {
+
+}
+
+.footer {
+  background-color: #19191A;
+}
